@@ -1,0 +1,12 @@
+[submodule "modules/sublime-text2"]
+	path = modules/sublime-text2
+	url = git://github.com/benji07/puppet-sublime-text2.git
+[submodule "modules/homebrew"]
+	path = modules/homebrew
+	url = git://github.com/kelseyhightower/puppet-homebrew.git
+[submodule "modules/osx_defaults"]
+	path = modules/osx_defaults
+	url = git://github.com/wfarr/puppet-osx_defaults.git
+[submodule "modules/mysql_osx"]
+	path = modules/mysql_osx
+	url = git://github.com/bjoernalbers/puppet-mysql_osx.git

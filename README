@@ -1,0 +1,16 @@
+Installation de mon Mac via puppet [WIP]
+
+
+- homebrew
+- php & mysql
+- git
+- pow + config pour apache -> ok
+- oh my zsh
+- alfred -> ok + essential (faut l'acheter)
+- sublime text 2 -> ok
+
+
+
+
+bash -s 1.6.13 3.0.0 /Volumes/Macintosh\ HD < <(curl -s https://raw.github.com/gist/1895594/install_puppet_mac.sh)
+sudo defaults write /Library/Preferences/com.apple.loginwindow HiddenUsersList -array-add puppet
